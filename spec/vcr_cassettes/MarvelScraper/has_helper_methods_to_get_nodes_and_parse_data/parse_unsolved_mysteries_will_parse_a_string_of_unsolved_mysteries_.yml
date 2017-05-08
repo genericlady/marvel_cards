@@ -1,0 +1,213 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://www.nslists.com/mrvuni93.htm
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - nginx/1.12.0
+      Date:
+      - Sat, 06 May 2017 19:10:16 GMT
+      Content-Type:
+      - text/html
+      Content-Length:
+      - '4745'
+      Connection:
+      - keep-alive
+      Last-Modified:
+      - Sun, 10 Jun 2012 23:04:34 GMT
+      Accept-Ranges:
+      - bytes
+      Vary:
+      - Accept-Encoding
+    body:
+      encoding: ASCII-8BIT
+      string: "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\r<html><head><title>Marvel
+        Universe 1993</title>\r\r<style type=\"text/css\">\r  .c1 { color: red; font-family:
+        arial, helvetica, sans-serif; font-size: 22pt; font-weight: bold; }\r  .c2
+        {color: #550000; font-family: times, times new roman, serif; font-size: 14pt;
+        }\r  .c3 {font-family: courier, courier new, monosize; font-size: 12pt; }\r
+        \ .c4 {font-family: courier, courier new, monosize; font-size: 10pt; }\r  .c5
+        {color: blue; font-family: serif; font-size: 14pt; }\r</style></head>\r<body
+        bgcolor=\"#ffffcc\" background=\"a2.jpg\" link=\"#800080\" vlink=\"#ff0080\">\r<p
+        align=\"left\"><a href=\"checklists.nvm\"><img src=\"check2.jpg\" width=\"330\"
+        height=\"33\" alt=\"Checklist Home Link\" border=\"0\" ismap usemap=\r\"#check2\"></a><map
+        name=\"check2\">\r<area shape=\"rect\" href=\"jachlist.htm\" coords= \"0,0,330,33\"
+        alt=\"House of Checklists Home Page\"></map></p>\r<p class=\"c4\"><i>The House
+        of Checklists is provided as an information resource for<br>non-sports card
+        collectors. The lists are not an offer to sell or<br>to buy. Please click
+        on the image above to visit the main page.</i><hr size=\"4\">\r\r<pre class=\"c1\">\rMarvel
+        Universe 1993 (IV)\r   SkyBox - 1993\r</pre><hr size=\"4\">\r\r<pre class=\"c2\">\rNotes:
+        \ Also distributed as a factory set with 3-D card and two foils. Contrary
+        to \rsome speculations, the 3-D card came in three variations, \"red\" and
+        \"green\" and \r\"blue.\" Thanks much to Gil Andrews and Jeramy Bonnelle for
+        updates!\r\rBack when the series was new, there was a report of a Venom promo
+        card. If it ever \rexisted, it was probably a production sample that was handed
+        out at a show in very \rlimited numbers. I have removed it from the main list.\r\rOkay,
+        here's a few words about the colors in the H-IV 3-D holograms. We also see
+        a\rlot of discussion about similar cards in later SkyBox sets, where people
+        disagree on \rwhich colors are most \"common.\" We originally concluded that
+        the H-IV came in \rthree variants, Red, Green, and Blue. Some thought that
+        the Blue was just a different \rway of looking at the Green, but Joseph Simone
+        (thanks!) acquired all three and first \rreported that they were distinctly
+        different when placed side-by-side. MF Baker \r(many thanks!) finally came
+        up with a plausible, complete explanation, after the \rnumber of confirmed
+        color variants started to pass five, but within six distinct \rgroups, allowing
+        for different opinions and viewing possibilities:\r\r- Plain Green: always
+        green\r- Gold/Yellow: a gold or yellow tint, but green is also visible sometimes.\r-
+        Orange/Red: anywhere from bright orange to a deep red, green is sometimes
+        visible\r- Teal: a combination of green and a light blue, green is often visible\r-
+        Deep Blue: a true blue, very little green is ever visible, almost always bright
+        true blue\r- Navy Blue: very very dark, can only see the image clearly in
+        very bright light;\r               absolutely no green visible ever, the most
+        scarce\r- Deep, Deep Red: deep dark blood red with some bright red too, more
+        easily viewed \r              than navy blue, almost no green ever, the most
+        scarce\r\rSkyBox must have liked the effect and concluded this made the cards
+        even more \rcollectible. Therefore they continued the process in later sets.
+        And the scarcity of \reach color could have varied over different parts of
+        the print run.\r</pre><hr size=\"4\">\r\r<pre class=\"c4\">\r<i>Box: 36 packs
+        of 10 cards.\rCommon sets: approx. 1.98 per box if collation were perfect.</i>\r\r
+        \  No.  Title                                   Type\r\r     1  Hulk                                    Super
+        Heroes\r     2  Moon Knight                             Super Heroes\r     3
+        \ Siege                                   Rookies\r     4  Deadzone                                Super-Villains\r
+        \    5  Wild Pack                               Super Heroes\r     6  Silver
+        Sable                            Super Heroes\r     7  Doc Samson                              Super
+        Heroes\r     8  Deathlok                                Super Heroes\r     9
+        \ Moses Magnum                            Super-Villains\r    10  Warlock
+        \                                Super Heroes\r    11  Silver Surfer                           Super
+        Heroes\r    12  Quasar                                  Super Heroes\r    13
+        \ Starhawk                                Super Heroes\r    14  Galactus                                Super-Villains\r
+        \   15  Goddess                                 Rookies\r    16  Thanos                                  Super-Villains\r
+        \   17  Morg                                    Super-Villains\r    18  Drax
+        \                                   Super Heroes\r    19  Nova                                    Super
+        Heroes\r    20  Firestar                                Super Heroes\r    21
+        \ Cardinal                                Super-Villains\r    22  Namorita
+        \                               Super Heroes\r    23  Speedball                               Super
+        Heroes\r    24  Turbo                                   Rookies\r    25  Rage
+        \                                   Super Heroes\r    26  Night Thrasher                          Super
+        Heroes\r    27  Darkhawk                                Super Heroes\r    28
+        \ Deadpool                                Super-Villains\r    29  Cannonball
+        \                             Super Heroes\r    30  Slayback                                Rookies\r
+        \   31  Sabretooth                              Super-Villains\r    32  Shatterstar
+        \                            Super Heroes\r    33  Apocalypse                              Super-Villains\r
+        \   34  Mr. Sinister                            Super-Villains\r    35  Cable
+        \                                  Super Heroes\r    36  Stryfe                                  Super-Villains\r
+        \   37  Guardian                                Super Heroes\r    38  Micromax
+        \                               Super Heroes\r    39  Wildheart                               Super
+        Heroes\r    40  Captain Britain                         Super Heroes\r    41
+        \ Phoenix                                 Super Heroes\r    42  Nightcrawler
+        \                           Super Heroes\r    43  Havok                                   Super
+        Heroes\r    44  Psylocke                                Super Heroes\r    45
+        \ Strong Guy                              Super Heroes\r    46  Dr. Strange
+        \                            Super Heroes\r    47  Dormammu                                Super-Villains\r
+        \   48  Beta Ray Bill                           Super Heroes\r    49  Loki
+        \                                   Super-Villains\r    50  Cobweb                                  Super-Villains\r
+        \   51  Blackheart                              Super-Villains\r    52  Sleepwalker
+        \                            Super Heroes\r    53  Thor                                    Super
+        Heroes\r    54  Hellstorm                               Super Heroes\r    55
+        \ Venom                                   Super-Villains\r    56  Demogoblin
+        \                             Super-Villains\r    57  Carnage                                 Super-Villains\r
+        \   58  Hobgoblin                               Super-Villains\r    59  Spider-Man
+        \                             Super Heroes\r    60  Cardiac                                 Super-Villains\r
+        \   61  Rhino                                   Super-Villains\r    62  Shock
+        \                                  Rookies\r    63  Daredevil                               Super
+        Heroes\r    64  Scarlet Witch                           Super Heroes\r    65
+        \ Spider-Woman                            Super Heroes\r    66  Splice                                  Super-Villains\r
+        \   67  Iron Man                                Super Heroes\r    68  Wonder
+        Man                              Super Heroes\r    69  War Machine                             Super
+        Heroes\r    70  Namor                                   Super Heroes\r    71
+        \ Tiger Shark                             Super-Villains\r    72  U.S. Agent
+        \                             Super Heroes\r    73  Mr. Fantastic                           Super
+        Heroes\r    74  Invisible Woman                         Super Heroes\r    75
+        \ Human Torch                             Super Heroes\r    76  Lyja                                    Rookies\r
+        \   77  Occulus                                 Super-Villains\r    78  Molecule
+        Man                            Super-Villains\r    79  Dr. Doom                                Super-Villains\r
+        \   80  Thing                                   Super Heroes\r    81  Klaw
+        \                                   Super-Villains\r    82  She-Hulk                                Super
+        Heroes\r    83  Punisher                                Super Heroes\r    84
+        \ Falcon                                  Super Heroes\r    85  Hardcore                                Super-Villains\r
+        \   86  Nomad                                   Super Heroes\r    87  Terror,
+        Inc.                            Super Heroes\r    88  Iron Fist                               Super
+        Heroes\r    89  Cage                                    Super Heroes\r    90
+        \ Scarecrow                               Super-Villains\r    91  Black Knight
+        \                           Super Heroes\r    92  Crystal                                 Super
+        Heroes\r    93  Sersi                                   Super Heroes\r    94
+        \ Thunderstrike                           Rookies\r    95  Captain America
+        \                        Super Heroes\r    96  Hercules                                Super
+        Heroes\r    97  Bloodaxe                                Super-Villains\r    98
+        \ Red Skull                               Super-Villains\r    99  Proctor
+        \                                Super-Villains\r   100  Deathwatch                              Super-Villains\r
+        \  101  Lilith                                  Super-Villains\r   102  Heart
+        Attack                            Super-Villains\r   103  Blaze                                   Super
+        Heroes\r   104  Basilisk                                Super-Villains\r   105
+        \ Ghost Rider                             Super Heroes\r   106  Darkhold Redeemers
+        \                     Super Heroes\r   107  Morbius                                 Super
+        Heroes\r   108  Nightstalkers                           Super Heroes\r   109
+        \ Storm                                   Super Heroes\r   110  Archangel
+        \                              Super Heroes\r   111  Beast                                   Super
+        Heroes\r   112  Rogue                                   Super Heroes\r   113
+        \ Magneto                                 Super-Villains\r   114  Gambit                                  Super
+        Heroes\r   115  Cyclops                                 Super Heroes\r   116
+        \ Wolverine                               Super Heroes\r   117  Bishop                                  Super
+        Heroes\r   118  Ovoids                                  Alien Races\r   119
+        \ Brood                                   Alien Races\r   120  Titans                                  Alien
+        Races\r   121  Badoon                                  Alien Races\r   122
+        \ Asgardians                              Alien Races\r   123  Skrulls                                 Alien
+        Races\r   124  Shi'ar                                  Alien Races\r   125
+        \ Kree                                    Alien Races\r   126  Rigellians
+        \                             Alien Races\r   127  Black Axe                               Rookies\r
+        \  128  Techno Wizards                          Super-Villains\r   129  Motormouth
+        \                             Super Heroes\r   130  Bloodseed                               Rookies\r
+        \  131  Dark Angel                              Super Heroes\r   132  Wild
+        Thing                              Rookies\r   133  Die-Cut                                 Super
+        Heroes\r   134  Death's Head II                         Super Heroes\r   135
+        \ Death Metal                             Rookies\r\r<b>Unsolved Mysteries</b>\r\r
+        \  136  The Origin of Wolverine\r   137  The Origin of Cable\r   138  The
+        Face of Darkhawk\r   139  The Origin of Ghost Rider\r   140  The Fate of the
+        X-Men\r   141  The Face of Doctor Doom\r   142  The Sixth Member of the Infinity
+        Watch\r   143  The Secret of Spider-Man's Parents\r   144  The Origin of Nightcrawler\r\r<b>Famous
+        Battles</b>\r\r   145  Spider-Man vs Carnage\r   146  Cable vs Stryfe\r   147
+        \ Ghost Rider vs Lilith\r   148  Silver Surfer vs Morg\r   149  Wolverine
+        vs Sabretooth\r   150  Thor vs Loki\r   151  War Machine\r   152  Spider-Man
+        vs Venom\r   153  Punisher vs Thorn\r   154  X-Cutioner's Song\r   155  Spider-Man
+        vs Sinister Six\r   156  Infinity War\r   157  Spirits of Venom\r   158  Hulk
+        vs Leader\r   159  Ghost Rider vs Blackout\r   160  Dr. Strange vs Dormammu\r
+        \  161  Wolverine vs Cyber\r   162  Captain America vs Crossbones\r   163
+        \ Punisher vs Jigsaw\r   164  Wolverine vs Venom\r   165  Spider-Man vs Juggernaut\r
+        \  166  Darkhawk vs Evilhawk\r   167  X-Force vs Brotherhood of Evil Mutants\r
+        \  168  Daredevil vs Typhoid Mary\r   169  Spider-Man vs Kingpin\r   170  Thor
+        vs Bloodaxe\r   171  Warlock vs Man-Beast\r   172  Ghost Rider vs Blaze\r
+        \  173  Hulk vs Hulk\r   174  Fantastic Four vs Secret Defenders\r   175  Spider-Man
+        vs Cardiac\r   176  Punisher vs Ghost Rider\r   177  Wolverine vs Omega Red\r
+        \  178  Cable vs Deadpool\r   179  Hulk vs X-Factor\r\r   180  Checklist\r\r\r<b>CHASE
+        CARDS</b>\r\r<b><u>Red Foil-Stamped Cards</u></b> (1:10 packs)\r\r1-2099  Doom
+        2099\r2-2099  Vulture 2099\r3-2099  Ravage 2099\r4-2099  Fearmaster\r5-2099
+        \ Spider-Man 2099\r6-2099  Punisher 2099\r7-2099  Specialist\r8-2099  Dethstryk\r9-2099
+        \ Tiger Wylde\r\r<b><u>3-D Hologram Card</u></b> (1:180 packs)\r\r H-IV   Spider-Man
+        vs. Venom [Green]\r H-IV   Spider-Man vs. Venom [Multi (green and gold)]\r
+        H-IV   Spider-Man vs. Venom [Red]\r H-IV   Spider-Man vs. Venom [Teal (bright
+        blue)]\r H-IV   Spider-Man vs. Venom [Navy (dark blue)]\r\r\r<b>PROMO CARDS</b>\r\r
+        \   0   Deathlok (Card Buyer's Guide)\r  ---   Silver Sable\r  ---   (foil-stamped,
+        blank backs, 9 diff.)\r  ---   (3-up panel, Capital City Conference)\r\r\rSearchwords:
+        jahoc, yr1993, mfrSkybox, catMarvel <!-- 080224-Baker-holovars 120121-ViaBonnelle-VenomPromoDelete
+        -->\r</pre>\r<span class=\"c5\">&copy;1999, 2000, 2006, 2008, 2012 <a href=\"mailto:allender&#64;comcast.net?subject=Marvel
+        Universe IV 1993 CL\">Jeff Allender</a>. Comments, updates, &amp; corrections
+        are welcomed!<br><br>\r<a href=\"actdc.htm#marvel\">Back to Marvel Checklists
+        Page</a><br>\r<a href=\"jachlist.htm\">Back to Checklist Home Page</a></span>\r\r</body></html>\r"
+    http_version: 
+  recorded_at: Sat, 06 May 2017 19:10:16 GMT
+recorded_with: VCR 3.0.3
