@@ -1,8 +1,3 @@
-require 'open-uri'
-require 'nokogiri'
-require 'pry'
-
-# define a method to check if the host is up 200 ok
 class MarvelScraper
   attr_reader :doc, :parser
 
@@ -12,7 +7,6 @@ class MarvelScraper
   end
 
   def run
-    binding.pry
     puts [ 
       commons, unsolved_mysteries, famous_battles, 
       chase_cards[:red_foil_stamped], chase_cards[:three_dimension_hologram],
@@ -42,6 +36,7 @@ class MarvelScraper
 
   def card_list
     @card_list ||= doc.css(".c4").children
+    binding.pry
   end
 
 end
