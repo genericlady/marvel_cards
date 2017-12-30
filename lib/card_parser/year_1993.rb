@@ -49,7 +49,7 @@ class CardParser::Year1993
   end
 
   def common_card_matches(card_text)
-    @common_card_matches ||= create_common_card_matches(card_text)
+    create_common_card_matches(card_text)
   end
 
   def create_common_card_matches(card_text)
@@ -75,7 +75,7 @@ class CardParser::Year1993
           else
             c.name = name
           end
-          c.type = "red_foil_stamped"
+          c.type = "Red Foil Stamped"
           c.rarity = "CHASE CARDS"
         end
       end
@@ -91,6 +91,7 @@ class CardParser::Year1993
           c.number = match.to_s
           c.name = match.post_match.strip
           c.rarity = "CHASE CARDS"
+          c.type = "hologram"
         end
       end
     end.compact
