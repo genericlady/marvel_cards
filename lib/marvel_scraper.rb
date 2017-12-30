@@ -7,7 +7,7 @@ class MarvelScraper
   end
 
   def run
-    puts [ 
+    [ 
       commons, unsolved_mysteries, famous_battles, 
       chase_cards[:red_foil_stamped], chase_cards[:three_dimension_hologram],
       chase_cards[:promo_cards], 
@@ -36,7 +36,6 @@ class MarvelScraper
 
   def card_list
     @card_list ||= doc.css(".c4").children
-    binding.pry
   end
 
 end
