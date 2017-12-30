@@ -1,0 +1,16 @@
+development:
+  adapter: postgresql
+  database: marvel_cards
+  encoding: utf8
+  host: localhost
+  port: 5432
+  username: marvel
+  password: jjhhuyre123$
+
+test:
+  adapter: postgresql
+  database: marvel_cards_test
+  username: marvel
+  password: jjhhuyre123$
+  pool: 5
+  timeout: 5000
