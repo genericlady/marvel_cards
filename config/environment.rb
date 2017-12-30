@@ -1,7 +1,13 @@
 require 'require_all'
-require_all 'lib'
+require 'active_record'
 require 'pry'
 require 'open-uri'
 require 'nokogiri'
-require 'pry'
+require_all 'lib'
 
+ActiveRecord::Base.establish_connection(
+  :adapter  => 'postgresql',
+  :database => 'marvel_cards',
+  :username => 'marvel',
+  :password => 'jjhhuyre123$',
+  :host     => 'localhost')
