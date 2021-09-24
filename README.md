@@ -11,4 +11,7 @@ Strategy Pattern to enforce an interface.
 
 see an example of the Strategy Pattern here https://github.com/genericlady/musical_performance
 
+important note: This project was built a few years ago and since it's a scraper the site it's scraping may have changed.
+The project still exists to serve as an example of coding knowledge.
+
 [License](license.md)
