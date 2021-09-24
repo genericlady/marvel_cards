@@ -9,7 +9,7 @@ The only concern `MarvelScraper` has is the methods of any given CardParser.
 Ideally for this to scale gracefully and mitigate runtime errors use the
 Strategy Pattern to enforce an interface.
 
-see an example of the Strategy Pattern here https://github.com/genericlady/musical_performance
+see an example of the Strategy Pattern being used in a decorator here https://www.yiannakokalas.com/2017/10/05/Design-Patterns-Decorator.html
 
 important note: This project was built a few years ago and since it's a scraper the site it's scraping may have changed.
 The project still exists to serve as an example of coding knowledge.
